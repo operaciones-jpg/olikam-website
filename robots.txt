@@ -1,0 +1,16 @@
+# OLIKAM robots.txt
+# https://olikam.com/robots.txt
+
+User-agent: *
+Allow: /
+
+# Block admin / internal paths (if applicable)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.json$
+
+# Crawl delay for bots (optional, tune to server capacity)
+Crawl-delay: 2
+
+# Sitemap
+Sitemap: https://olikam.com/sitemap.xml

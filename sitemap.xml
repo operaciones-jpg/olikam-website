@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Homepage EN -->
+  <url>
+    <loc>https://olikam.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://olikam.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://olikam.com/es/"/>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- ENVELOPE -->
+  <url>
+    <loc>https://olikam.com/envelope</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://olikam.com/envelope"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://olikam.com/es/envelope"/>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- SCAN -->
+  <url>
+    <loc>https://olikam.com/scan</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://olikam.com/scan"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://olikam.com/es/scan"/>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- RENOVA -->
+  <url>
+    <loc>https://olikam.com/renova</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://olikam.com/renova"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://olikam.com/es/renova"/>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>
